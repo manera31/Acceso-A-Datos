@@ -5,13 +5,13 @@ import java.util.Scanner;
 
 public class EscribirFile {
     public static void main(String[] args) throws IOException {
-        File f = new File("C:\\Users\\joane\\Desktop\\Joan\\2 DAM\\Acceso a datos\\AccesoADatos\\hola.txt");
+        File f = new File("/home/joan/IdeaProjects/Acceso a datos/hola.txt");
         FileWriter fw = new FileWriter(f, true);
         Scanner lector = new Scanner(System.in);
         char c;
         boolean b = true;
         do {
-            System.out.print("Escribe letra: ");
+            System.out.println("Escribe letra: ");
             c = lector.nextLine().charAt(0);
             if(c == '\\'){
                 b=false;

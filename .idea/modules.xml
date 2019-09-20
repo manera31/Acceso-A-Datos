@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AccesoADatos.iml" filepath="$PROJECT_DIR$/.idea/AccesoADatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Acceso_a_datos.iml" filepath="$PROJECT_DIR$/.idea/modules/Acceso_a_datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Acceso_a_datos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Acceso_a_datos.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Acceso_a_datos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Acceso_a_datos.test.iml" />
     </modules>
   </component>
 </project>
